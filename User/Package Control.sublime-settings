@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"Babel",
+		"DocBlockr",
+		"Emmet",
+		"JsFormat",
+		"Package Control"
+	]
+}
